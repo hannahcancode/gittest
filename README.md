@@ -1,3 +1,3 @@
-# Different portfolio name
+# My Portfolio
 
 ## SKILLS
